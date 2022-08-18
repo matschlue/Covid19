@@ -10,15 +10,12 @@ Global pandemics might become frequent in the future, therefore it is important 
 Source data will be downloaded from the John Hopkins University of Medicine. 
 
 ## Questions they hope to answer with the data
-Finding patterns, correlations or other interesting data points-
+Finding patterns, correlations or other interesting data points. 
 
-
-3 branches 
-
-provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
+## provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
 ✓ Takes in data in from the provisional database
 ✓ Outputs label(s) for input data
 
-provisional database that stands in for the final database and accomplishes the following:
+## provisional database that stands in for the final database and accomplishes the following:
 ✓ Sample data that mimics the expected final database structure or schema
 ✓ Draft machine learning module is connected to the provisional database
