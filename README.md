@@ -1,10 +1,16 @@
 # Covid19
 
-✓ Selected topic
-✓ Reason why they selected their topic
-✓ Description of their source of data
-✓ Questions they hope to answer with the data
-Description of the communication protocols
+## Selected topic
+Covid 19 
+
+## Reason why they selected their topic
+Global pandemics might become frequent in the future, therefore it is important to use and analyze available data to provide better responses in the time to come. 
+
+## Description of their source of data
+Source data will be downloaded from the John Hopkins University of Medicine. 
+
+## Questions they hope to answer with the data
+Finding patterns, correlations or other interesting data points-
 
 
 3 branches 
