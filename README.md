@@ -12,6 +12,8 @@ Source data will be downloaded from the John Hopkins University of Medicine.
 ## Questions they hope to answer with the data
 Finding patterns, correlations or other interesting data points. 
 
+## Description of the communication protocols
+
 ## provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
 ✓ Takes in data in from the provisional database
 ✓ Outputs label(s) for input data
