@@ -7,7 +7,7 @@ Covid 19
 Global pandemics might become frequent in the future, therefore it is important to use and analyze available data to provide better responses in the time to come. 
 
 ## Description of source of data
-Source data will be downloaded from the John Hopkins University of Medicine. 
+Source data will be downloaded from the European Center for Disease Prevention and Control. 
 
 ## Questions hope to be answered with the data
 Finding patterns, correlations or other interesting data points. 
