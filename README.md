@@ -15,5 +15,5 @@ Finding patterns, correlations or other interesting data points.
 ## Description of the communication protocols
 Not applicable.
 
-## Provisional database that stands in for the final database and accomplishes the following:
+## Provisional database that stands in for the final database: 
 Uploaded
