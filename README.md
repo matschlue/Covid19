@@ -28,6 +28,6 @@ Uploaded.
 
 The tool, which will be used for the dashborad/story is Tableau.
 
-[link to dashboard](https://public.tableau.com/app/profile/matthias2688/viz/CovidDataStory_16616990805110/Covid_Data?publish=yes)
+[Link to dashboard](https://public.tableau.com/app/profile/matthias2688/viz/CovidDataStory_16616990805110/Covid_Data?publish=yes)
 
 Via Tableau, the final presentation/story will be made public. Further slide and conculusions will be created within the next days to conclude the project. 
