@@ -10,6 +10,7 @@ Global pandemics might become frequent in the future, therefore it is important 
 Source data will be downloaded from the European Center for Disease Prevention and Control. 
 
 ## Description of the data exploration phase of the project
+First analysis with the data file weas conducted in order to access if data can be used and in what way it can be used. Visual exploration was used to understand what the dataset consits of and the characteristics of the data available. 
 
 ## Description of the analysis phase of the project
 
