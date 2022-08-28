@@ -10,9 +10,10 @@ Global pandemics might become frequent in the future, therefore it is important 
 Source data will be downloaded from the European Center for Disease Prevention and Control. 
 
 ## Description of the data exploration phase of the project
-First analysis with the data file weas conducted in order to access if data can be used and in what way it can be used. Visual exploration was used to understand what the dataset consits of and the characteristics of the data available. 
+First analysis with the data file was conducted in order to access if data can be used and in what way it can be used. Visual exploration was used to understand what the dataset consits of and the characteristics of the data available. 
 
 ## Description of the analysis phase of the project
+Currently, data will be analyzed further to extract more interesting data points and/or patterns. First visualizations will be created to create a cohesive story.  
 
 ## Questions hope to be answered with the data
 Finding patterns, correlations or other interesting data points. 
@@ -21,18 +22,10 @@ Finding patterns, correlations or other interesting data points.
 Not applicable.
 
 ## Provisional database that stands in for the final database: 
-Uploaded
+Uploaded.
 
-## Outline of the project (this may include images, but should be easy to follow and digest)
+## Outline of the project
 
-Main Branch
-All code in the main branch is productionready. The main branch should include:
-✓ All code necessary to perform exploratory analysis
-✓ Some code necessary to complete the machine learning portion of the project
-
-✓ Storyboard on Google Slide(s)
-✓ Description of the tool(s) that will be used to create final dashboard --> tableau
-
+The tool, which will be used for the dashborad/story is Tableau. 
 [link to dashboard](https://public.tableau.com/app/profile/matthias2688/viz/CovidDataStory_16616990805110/Covid_Data?publish=yes)
-
-✓ Description of interactive element(s)
+Via Tableau, the final presentation/story will be made public. Further slide and conculusions will be created within the next days to conclude the project. 
