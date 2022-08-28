@@ -31,4 +31,6 @@ All code in the main branch is productionready. The main branch should include:
 
 ✓ Storyboard on Google Slide(s)
 ✓ Description of the tool(s) that will be used to create final dashboard --> tableau
+
+https://public.tableau.com/app/profile/matthias2688/viz/CovidDataStory_16616990805110/Covid_Data?publish=yes
 ✓ Description of interactive element(s)
