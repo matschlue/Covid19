@@ -34,5 +34,4 @@ All code in the main branch is productionready. The main branch should include:
 
 [link to dashboard](https://public.tableau.com/app/profile/matthias2688/viz/CovidDataStory_16616990805110/Covid_Data?publish=yes)
 
-https://public.tableau.com/app/profile/matthias2688/viz/CovidDataStory_16616990805110/Covid_Data?publish=yes
 ✓ Description of interactive element(s)
